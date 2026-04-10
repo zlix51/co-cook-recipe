@@ -2,6 +2,7 @@
   "name": "Interactive Recipe Collage",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://lizhiyuan.github.io/co-cook-recipe/",
   "type": "module",
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.3",

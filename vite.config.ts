@@ -17,6 +17,7 @@ function figmaAssetResolver() {
 }
 
   export default defineConfig({
+    base: '/co-cook-recipe/',
     plugins: [react(), tailwindcss(), figmaAssetResolver()],
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
